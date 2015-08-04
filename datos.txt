@@ -1,0 +1,23 @@
+http://www.specialized.com/us/en/bikes/mountain/epic/sworks-epic-29-wc
+http://www.scott-sports.com/global/en/
+http://www.giant-bicycles.com/en-IN/
+
+COYOTE  STORE  S.A.S.
+RICARDO GONZALEZ PATERNINA
+CEL: 3013370933  TEL: (5) 2751065
+
+[1 - Retirar la palabra Inicio, Nosotros y Contacto de la barra superior de menú de opciones y pasarlos a otro lugar, ya sea en la parte inferior o en donde se pueda apreciar sin que se pierdan de vista.]
+
+[2 - El buscador subirlo un poco y alinearlo con el Registro, iniciar y carrito.] 
+
+[3 - Que la barra de Menú principal se pueda ordenar por Orden de Importancia y no por Orden alfabético, es decir (BICICLETAS, ACCESORIOS, COMPONENTES, ETC)]
+
+[4 - El administrador no me da la opción de colores y es necesaria, ademas de la opción de ingresar el producto por talla, color y cantidad en el botón de Relación de tallas a producto... (relación de color y tallas a producto) ]
+
+5 - En el administrador se requiere de un Sub Tipo de producto, es decir que ademas de la opción principal me de la opción de anexar una categoría diferente de ese producto como por ejemplo:
+
+Bicicletas, y que me de la opción de anexar el tipo de bicicleta que quiero vender, es decir Ruta, Montaña, Urbana, Etc. 
+
+De esta manera el cliente tendrá la opción de encontrar de manera mas rápida y eficiente lo que quiere comprar.
+
+6 - Actualmente cuando le cliente selecciona la opción de Accesorios , Bicicletas y demás. se despliega una barra de productos que le da la opción al cliente de escoger el tipo de cliente (eso esta bien), de escoger marca (eso esta bien), de ordenar por orden alfabético o precio (eso esta bien), pero aparece la opción de volver a escoger el botón del menú que me llevo a esta pagina y si presiono en el me da la escoger los demás productos del menú (no quiero que esto pase ya que el cliente sigue teniendo la opción la pantalla de seleccionarlos el el menú principal) pero si quiero que al oprimirlo se despliegue las demas opciones como por ejemplo:

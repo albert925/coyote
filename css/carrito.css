@@ -1,0 +1,112 @@
+	table td{
+		padding: 0.5em 1em;
+	}
+#botoncarr{
+	display: flex;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
+	justify-content: space-around;
+	margin: 1em 0;
+}
+	#botoncarr a{
+		padding: 0.5em 1em;
+	}
+	#botoncarr a:hover{
+		background: #fff;
+		color: #000;
+	}
+#celdA{
+	width: 15%;
+}
+#datTcr{
+	display: flex;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
+	justify-content: space-around;
+}
+	#datTcr #usdetl{
+		display: flex;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		width: 30%;
+	}
+		#datTcr #usdetl label{
+			padding: 0.25em;
+		}
+#doscompr{
+	background: #222222;
+	color: #fff;
+	text-decoration: none;
+}
+#fcompr{
+	background: #555555;
+	color: #fff;
+	text-decoration: none;
+}
+#pasos{
+	display: flex;
+	-webkit-justify-content: space-around;
+	-ms-justify-content: space-around;
+	justify-content: space-around;
+}
+	#pasos div{
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		border:1px solid #000;
+		/*background: #222222;*/
+		border-radius: 100%;
+		display: flex;
+		-webkit-justify-content: center;
+		-ms-justify-content: center;
+		justify-content: center;
+		height: 3em;
+		width: 3em;
+	}
+	#pasos #pssl{
+		background: #555555;
+	}
+#tam_carrito{
+	display: flex;
+	-webkit-justify-content: space-between;
+	-ms-justify-content: space-between;
+	justify-content: space-between;
+	margin-top:0.5em; 
+}
+	#tam_carrito div{
+		/*background: #222222;*/
+		border-radius: 5px;
+		box-shadow: 0 0 5px #222222;
+		cursor: pointer;
+		padding: 0.5em;
+	}
+	#tam_carrito div:hover{
+		background: #555555;
+	}
+	#tam_carrito div:active{
+		transform: scale(1.1);
+	}
+.eliminar_carr{
+	background: url(../imagenes/delete.png) no-repeat center;
+	background-size: cover;
+	cursor: pointer;
+	height: 50px;
+	margin: 0 auto;
+	width: 50px;
+}
+.eliminar_carr:hover{
+	transform: scale(1.1);
+}
+@media screen and (max-width: 700px){
+	#datTcr{
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		text-align: center;
+	}
+		#datTcr #usdetl{
+			margin: 0 auto;
+			width: 90%;
+		}
+}

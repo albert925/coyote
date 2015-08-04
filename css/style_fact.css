@@ -1,0 +1,21 @@
+	figure img{
+		width: 100%;
+	}
+hgroup{
+	text-align: center;
+}
+table{
+	margin: 0 auto;
+	text-align: center;
+}
+	table td{
+		padding: 0.5em;
+	}
+#logo{
+	margin: 0 auto;
+	width: 40%;
+}
+#title{
+	background: #555555;
+	color: #fff;
+}
